@@ -13,6 +13,14 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harry-34/harry-34/output/dist/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/harry-34/harry-34/output/dist/github-contribution-grid-snake.svg">
 </picture>
+### 🐍 Snake Game
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harry-34/harry-34/output/dist/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harry-34/harry-34/output/dist/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/harry-34/harry-34/output/dist/github-contribution-grid-snake.svg">
+</picture>
+
+# 📊 GitHub Stats:
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=harry-34&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=harry-34&theme=dark&hide_border=false)<br/>
